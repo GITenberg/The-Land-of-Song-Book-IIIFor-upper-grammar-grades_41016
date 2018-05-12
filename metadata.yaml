@@ -1,0 +1,35 @@
+_repo: The-Land-of-Song-Book-IIIFor-upper-grammar-grades_41016
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Shute, Katharine Hamer
+    alias: Shute, Katherine H.
+    birthdate: 1862
+    gutenberg_agent_id: '40935'
+    url: http://www.gutenberg.org/2009/agents/40935
+covers:
+- cover_type: archival
+  image_path: 41016-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Dunton, Larkin
+    birthdate: 1828
+    deathdate: 1899
+    gutenberg_agent_id: '37556'
+    url: http://www.gutenberg.org/2009/agents/37556
+description: ''
+gutenberg_issued: '2012-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41016'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcc 'PR'
+- !lcsh 'American poetry'
+- !lcsh 'English poetry'
+title: The Land of Song, Book 3. For upper grammar grades
+url: http://www.gutenberg.org/ebooks/41016
